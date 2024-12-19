@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi I'm Gabriel 👋 ![visitors](https://komarev.com/ghpvc/?username=bielmorais30&style=plastic)
+
+### About me 😉
+
+I'm a fullstack engineer based in Franca, São Paulo.
+
+- Studying Computer Science (5/8) 💻 
 
 <!--
 **bielmorais30/bielmorais30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
