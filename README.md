@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 
 ## Hi I'm Gabriel 👋 ![visitors](https://komarev.com/ghpvc/?username=bielmorais30&style=plastic)
 
-### About me 😉
-
-I'm a fullstack engineer based in Franca, São Paulo.
-
-- Studying Computer Science (5/8) 💻 
 
 <div align="center">
   <a href="https://github.com/bielmorais30">
@@ -31,7 +26,8 @@ I'm a fullstack engineer based in Franca, São Paulo.
 
 </div>
 
-### Tools I use 🔨
+## Tools I use 🔨
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <div style="flex: 1; gap: 15px">
     <img src="./static/icons/githubIcon.svg" width="50" height="50">
@@ -39,7 +35,7 @@ I'm a fullstack engineer based in Franca, São Paulo.
     <img src="./static/icons/gitIcon.svg" width="50" height="50">
 </div>
 
-### Tech Stack 👩🏻‍💻
+## Tech Stack 👩🏻‍💻
 
 <div style="flex: 1; gap: 15px">
     <img src="./static/icons/javascriptIcon.svg" height="50" width="50">
@@ -47,5 +43,11 @@ I'm a fullstack engineer based in Franca, São Paulo.
     <img src="./static/icons/htmlIcon.svg" height="50" width="50">
     <img src="./static/icons/cssIcon.svg" height="50" width="50">
 </div>
+
+## About me 😉
+
+I'm a fullstack engineer based in Franca, São Paulo.
+
+- Studying Computer Science (5/8) 💻 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
