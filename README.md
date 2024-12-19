@@ -6,6 +6,23 @@ I'm a fullstack engineer based in Franca, São Paulo.
 
 - Studying Computer Science (5/8) 💻 
 
+### Tools I use 🔨
+
+<div style="flex: 1; gap: 15px">
+    <img src="./static/icons/githubIcon.svg" width="50" height="50">
+    <img src="./static/icons/vscodeIcon.svg" width="50" height="50">
+    <img src="./static/icons/gitIcon.svg" width="50" height="50">
+</div>
+
+### Tech Stack 👩🏻‍💻
+
+<div style="flex: 1; gap: 15px">
+    <img src="./static/icons/javascriptIcon.svg" height="50" width="50">
+    <img src="./static/icons/phpIcon.svg" height="50" width="50">
+    <img src="./static/icons/htmlIcon.svg" height="50" width="50">
+    <img src="./static/icons/cssIcon.svg" height="50" width="50">
+</div>
+
 <!--
 **bielmorais30/bielmorais30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
