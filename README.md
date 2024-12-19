@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## About me 😉
 
-I'm a fullstack engineer based in Franca, São Paulo.
+I'm based in Franca, São Paulo.
 
 - Studying Computer Science (5/8) 💻 
 
